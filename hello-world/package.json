@@ -3,7 +3,7 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "NUXT_APP_BASE_URL=/hello-world/ nuxt generate",
+    "generate": "NUXT_APP_BASE_URL=/browser-3d-series/hello-world/ nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
