@@ -13,4 +13,4 @@ rm -rf output
 rm pages.sh
 git add .
 git commit -m "update pages"
-git push -u origin gh-pages
+git push -u origin gh-pages --force
