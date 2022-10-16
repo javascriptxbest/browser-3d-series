@@ -4,7 +4,7 @@ The first in a series of projects that build towards creating a lofi in order to
 
 [More info](https://www.javascript.best/posts/browser-3d-series/hello-world).
 
-[Demo]().
+[Demo](https://javascriptxbest.github.io/browser-3d-series/hello-world/).
 
 
 # Nuxt info
